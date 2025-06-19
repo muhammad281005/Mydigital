@@ -1,5 +1,3 @@
-<?php
-echo <<<HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -203,8 +201,6 @@ echo <<<HTML
 
 </body>
 </html>
-HTML;
-?>
 
   
    
